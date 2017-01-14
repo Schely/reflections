@@ -7,3 +7,9 @@ dostanem .git súbor, žiadne commit sa nevytvorí a teda git log vyhodí chybu. vse
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 no idea
+
+--------------------
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+one can porovnat subory a uvidi, co sa zmenilo
