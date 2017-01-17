@@ -20,3 +20,9 @@ What are some situations when branches would be helpful in keeping your history 
 
 Na experimenty a na vytváranie inıch verzií, èi u v cudzom jazyku alebo obshaujúce iné prvky
 
+--------------------
+
+How do the diagrams help you visualize the branch structure?
+
+lepšie sa pochopia vzahy medzi vetvami, èo sa dá dosiahnu a èo nie
+
