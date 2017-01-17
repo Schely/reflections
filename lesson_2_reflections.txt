@@ -32,5 +32,11 @@ What is the result of merging two branches together? Why do we represent it in t
 
 vısledkom je len jedna vetva obsahujúca zmeny z oboch starıch vetviev. Porovnávajú sa posledné dva commity, ktoré chceme spoji s ich najnovším spoloènım commitom. Rodièom takého commitu sú tie dva commity
 
+--------------------
 
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+pros: šetrí èas a námahu
+
+cons: spory môu by vyhodnotené inak ako je elané
 
