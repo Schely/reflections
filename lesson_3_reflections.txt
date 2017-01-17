@@ -1,0 +1,3 @@
+When would you want to use a remote repository rather than keeping all your work local?
+
+aby som mal zálohu alebo aby som svoju prácu mohol zdieľať s ostatnými alebo na spoluprácu
