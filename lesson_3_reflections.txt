@@ -7,3 +7,13 @@ aby som mal zálohu alebo aby som svoju prácu mohol zdieľať s ostatnými aleb
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 zrejme mi stačí len tá vetva, ktorú práve potrebujem a nepotrebujem zahlcovať pamäť vecami, ktoré nepotrebujem
+
+------------------
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+fork - len na Githube, vytvorenie novej k=opie v mojom adresáre, pričom sa odkazuje, odkiaľ som to zobral.
+clone - kopírovanie repository z jednej polohy na novú, najmä z Github/PC do PC
+branch - len v počítači na vylepšovanie projektu
+
+
