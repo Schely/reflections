@@ -27,3 +27,9 @@ back up účely, avšak najmä ak viacerí pracujú na tom istom projekte, tak u
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 to je na dlho. 
+
+------------------
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+keď nie som si istý zmenou a chcem názor ďalšieho človeka, vyriešime to najskôr  v novej vetve a až tak sa vrátime k pôvodnej
