@@ -21,3 +21,9 @@ branch - len v počítači na vylepšovanie projektu
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 back up účely, avšak najmä ak viacerí pracujú na tom istom projekte, tak updatovať svoje verzie
+
+------------------
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+to je na dlho. 
