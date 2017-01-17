@@ -26,3 +26,11 @@ How do the diagrams help you visualize the branch structure?
 
 lepšie sa pochopia vzahy medzi vetvami, èo sa dá dosiahnu a èo nie
 
+--------------------
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+vısledkom je len jedna vetva obsahujúca zmeny z oboch starıch vetviev. Porovnávajú sa posledné dva commity, ktoré chceme spoji s ich najnovším spoloènım commitom. Rodièom takého commitu sú tie dva commity
+
+
+
