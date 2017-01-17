@@ -16,4 +16,8 @@ fork - len na Githube, vytvorenie novej k=opie v mojom adresáre, pričom sa odk
 clone - kopírovanie repository z jednej polohy na novú, najmä z Github/PC do PC
 branch - len v počítači na vylepšovanie projektu
 
+------------------
 
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+back up účely, avšak najmä ak viacerí pracujú na tom istom projekte, tak updatovať svoje verzie
